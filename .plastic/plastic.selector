@@ -1,0 +1,4 @@
+repository "Pruebas3D@Campayo@cloud"
+  path "/"
+    br "/main"
+    co "/main"

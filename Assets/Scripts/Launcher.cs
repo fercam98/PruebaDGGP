@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ConvertirHijo : MonoBehaviour
+public class Launcher : MonoBehaviour
 {
 
     private void Start()
     {
-        Debug.log("Bug corregido");
+        Debug.Log("Bug corregido");
     }
 
 }
